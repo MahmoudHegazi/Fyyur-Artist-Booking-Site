@@ -20,6 +20,7 @@ HTML5, CSS3, W3.css, JavaScript, ES6, AJAX, grid, flexbox
 * the game has good story and goal and good game
 4. Notifications System never miss any event or error with friendly UX message
 5. Due to relational Database You Can Direct Delete Band You have to deleted it's events My App handle this easy Error
+6. Error Handling And Fast performance and care of fast and advanced search IT like Google and Better in only it has no Button
 
 # packeges:
 1. flask
