@@ -67,7 +67,7 @@ HTML5, CSS3, W3.css, JavaScript, ES6, AJAX, grid, flexbox
 9. get 1200 score to win <a href="https://youtu.be/0qMXFWyaWHo">Game Video</a> 
 10. I created this game from scratch and created it's idea it was not like this level 
 
-<img src="golden_arrow.JPG">
+<img src="/static/golden_arrow.JPG">
 
 # app Routes:
 ```python
