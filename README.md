@@ -55,7 +55,15 @@ HTML5, CSS3, W3.css, JavaScript, ES6, AJAX, grid, flexbox
 2. you can add new Band, Edit Band, Delete Band, and Read all Bands, Search For Band, and do the same for events
 3. each Band Can add unlimited events connected to it, and apears in it's page
 
-
+# About Golden Arrow:
+1. Start With Champion and collect coins more you move more coin droped and if you clicked on non coin may
+2. find monster collect coins to level up and upgrade your champion and monsters
+3. message from monsters and hero
+4. track score, and end game if win and return golden arrow
+5. if champion tuch monster champion die
+6. the game built in Grid and FlexBox and Pure JS no canvas make it lightweight
+7. next update will add server to it and handle login and score and add python to the game with ajax and fight the monsters using data-nav
+8. and add more gif when fight monsters and some movements gif to attack then publish it online already there are <a href="https://www.facebook.com/Golden-Arrow-104811848200055/?eid=ARCc6WFCxVXf88IK5gvLtN4dFDNjFxDpGyRb0IFCazPTOeS5z2VgZ5rCPTL0PrzB7dPlcS1bWCoQgvHz&fref=nf">Facebook page</a>
 # app Routes:
 ```python
 @app.route('/search_ajax', methods=['POST'])
