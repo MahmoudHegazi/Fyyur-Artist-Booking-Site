@@ -64,7 +64,7 @@ HTML5, CSS3, W3.css, JavaScript, ES6, AJAX, grid, flexbox
 6. the game built in Grid and FlexBox and Pure JS no canvas make it lightweight
 7. next update will add server to it and handle login and score and add python to the game with ajax and fight the monsters using data-nav
 8. and add more gif when fight monsters and some movements gif to attack then publish it online already there are <a href="https://www.facebook.com/Golden-Arrow-104811848200055">Facebook page</a>
-
+9. get 1200 score to win <a href="https://youtu.be/0qMXFWyaWHo">Game Video</a> 
 # app Routes:
 ```python
 @app.route('/search_ajax', methods=['POST'])
