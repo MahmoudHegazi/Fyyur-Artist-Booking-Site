@@ -1,6 +1,4 @@
-# Fyyur-Artist-Booking-Site
 
-#### Udacity-First-Project
 
 # programming languages and libraries:
 Python3, JavaScript, SQL, jinja2, SQLalchemy,  Relational Database: PostgreSQL
